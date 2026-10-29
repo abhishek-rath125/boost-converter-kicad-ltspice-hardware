@@ -1,0 +1,29 @@
+# KiCad temporary & backup files
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*.lck
+*.tmp
+_autosave-*
+*.kicad_prl
+fp-info-cache
+*.net
+
+# LTspice simulation raw data and logs (large binary files)
+*.raw
+*.fft
+*.log
+*.net
+*.op.raw
+
+# OS specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.swp
+*~
